@@ -1,0 +1,17 @@
+Title: The Colonial Pipeline Ransomware Crisis
+
+Scenario:
+In May 2021, the Colonial Pipeline, which carries nearly 45% of the fuel for the U.S. East Coast, was forced to shut down its operations due to a ransomware attack by the hacker group DarkSide.
+
+How it Happened:
+
+Entry Point: Attackers gained access through a single compromised password for an inactive Virtual Private Network (VPN) account.
+
+Lack of MFA: The account did not have Multi-Factor Authentication (MFA) enabled, making the breach significantly easier.
+
+Data Theft: Before deploying the ransomware, the hackers stole 100GB of data in just two hours, threatening to leak it if the ransom wasn't paid.
+
+Encryption: The group then encrypted the company’s billing and accounting systems, forcing a total shutdown of the pipeline as a precaution.
+
+Target & Impact:
+The target was critical infrastructure, but the breach originated from a common credential theft. The shutdown led to widespread fuel shortages, panic buying, and a state of emergency across 17 states. Despite recovering some funds later, the company paid a controversial $4.4 million ransom in Bitcoin to regain access.

@@ -1,0 +1,15 @@
+Enable MFA: Always use Multi-Factor Authentication (like Google Authenticator or biometric locks) for all email and banking accounts.
+
+Strong Passwords: Use unique, complex passwords of at least 12 characters; never reuse one password for multiple sites.
+
+Regular Backups: Back up your academic files and projects to an external drive or secure cloud (like Google Drive) weekly.
+
+Software Updates: Never "skip" or postpone OS or browser updates, as they contain critical patches against ransomware exploits.
+
+UPI Security: Never enter your UPI PIN to receive money or scan QR codes from unknown buyers/sellers.
+
+Transaction Alerts: Enable instant SMS/email alerts for every bank transaction to spot unauthorized activity immediately.
+
+Phishing Awareness: Avoid clicking links in emails that create "artificial urgency," such as claiming your college account will be blocked.
+
+Official Reporting: Report cybercrime immediately via the National Cyber Crime Portal (cybercrime.gov.in) or the 1930 Helpline.
