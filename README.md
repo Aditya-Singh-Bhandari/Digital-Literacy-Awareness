@@ -36,10 +36,12 @@ These websites can assist with creating an online professional presence.
 Task 3 – Platforms Exploration
 Practiced coding using HackerRank
 Created a quiz using Google Forms
+
 Task 4 – Email Etiquette
 Composed professional emails
 Created a checklist on dos and don’ts on social media
 Learnt about digital communication etiquette
+
 Task 5 – Cybercrime Awareness
 Learnt about ransomware case study
 Created a checklist on how to prevent cybercrime
